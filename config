@@ -3,8 +3,8 @@
 maximize = true
 clipboard-read = allow
 clipboard-write = allow
-window-theme = system
-window-decoration = none
+window-theme = ghostty
+window-decoration = client
 theme = Kanagawa Wave
 background = #1f1f28
 foreground = #dcd7ba
@@ -12,6 +12,7 @@ selection-background = #2d4f67
 selection-foreground = #c8c093
 cursor-color = #c8c093
 cursor-text = #1d202f
+cursor-style = bar
 palette = 0=#090618
 palette = 1=#c34043
 palette = 2=#76946a
@@ -28,3 +29,5 @@ palette = 12=#7fb4ca
 palette = 13=#938aa9
 palette = 14=#7aa89f
 palette = 15=#dcd7ba
+gtk-wide-tabs = false
+gtk-custom-css = tab-style.css
