@@ -31,3 +31,6 @@ palette = 14=#7aa89f
 palette = 15=#dcd7ba
 gtk-wide-tabs = false
 gtk-custom-css = tab-style.css
+
+# Shortcuts
+keybind = ctrl+shift+t=new_tab
