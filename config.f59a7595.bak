@@ -35,4 +35,3 @@ gtk-custom-css = tab-style.css
 
 # Shortcuts
 keybind = ctrl+shift+t=new_tab
-keybind = shift+enter=text:\x1b\r
