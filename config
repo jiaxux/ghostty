@@ -9,12 +9,22 @@ window-decoration = client
 theme = Kanagawa Wave
 # theme = Catppuccin Mocha
 background = #1f1f28
-# background-opacity = 0.85
 foreground = #dcd7ba
-cursor-text = #1d202f
+
+# Cursor
 cursor-style = bar
+cursor-text = #1d202f
+cursor-color = #c8c093
+
+# Window padding
+window-padding-x = 4
+window-padding-y = 6,2
+window-padding-balance = true
+
+# Tabs
 gtk-wide-tabs = false
 gtk-custom-css = tab-style.css
+gtk-tabs-location = top
 
 # Shortcuts
 keybind = ctrl+shift+t=new_tab
